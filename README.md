@@ -84,6 +84,4 @@ Learning Outcomes:-
 - Handling different input scenarios.
 - Testing and debugging Python programs.
 
-**Harshita Rathi**
 
-B.Tech – Computer Science and Engineering (Data Science)
